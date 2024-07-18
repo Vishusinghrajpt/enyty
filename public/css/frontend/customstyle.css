@@ -1,0 +1,30 @@
+/* commemoration page */
+.new_font_seaseed{
+    font-size: 37px;
+    text-align: justify;
+}
+.new_superlativ_{
+    top : -1.05em !important ;
+}
+/* donation page */
+.new_donate_para_1, .new_donate_para_2, .new_donate_para_3, .new_helptheproject{
+    font-size: 20px;
+    margin-bottom:0;
+}
+
+.new_donate_para_3{
+    text-align: center;
+}
+
+
+@media (max-width:576px){
+    .new_div_input_style input{
+        padding:8px;
+        font-size:14px;
+    }
+}
+@media (max-width:376px){
+    .new_div_input_style input{
+        font-size:10px;
+    }
+}
